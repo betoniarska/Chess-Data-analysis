@@ -1,0 +1,6 @@
+Chess-noobs-analysis is a descriptive data-analysis done on 2 rival chess noobs to see once and for all which of them is superior.
+
+The analysis consists of
+- Describing characteristics in 157 games played between the noobs in the last 6 months (i.e. winrates, avg. moves, ratios of checkmate / flagging / resigning etc)
+- Analysing the games further by incorporating the chess engine stockfish into the analysis and having the engine analyse the games given to it in SAN (Standard Algebraic Notation)
+- Plotting all the findings
